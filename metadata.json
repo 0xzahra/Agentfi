@@ -1,0 +1,8 @@
+{
+  "name": "Agentfi",
+  "description": "A neo-metaverse interface for creating and deploying sovereign AI agents with advanced cognitive capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
